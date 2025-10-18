@@ -81,7 +81,7 @@ const Hero = () => {
 
               {/* Main Heading */}
               <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight" style={{color: '#1F2937'}}>
-                Hi, I'm{' '}
+                Hi, I&apos;m{' '}
                 <span className="font-black" style={{color: 'rgb(131, 137, 233)'}}>
                   Abhishek
                 </span>

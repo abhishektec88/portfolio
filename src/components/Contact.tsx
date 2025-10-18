@@ -61,7 +61,7 @@ const Contact = () => {
       });
       
       setSubmitStatus('success');
-    } catch (error) {
+    } catch {
       setSubmitStatus('error');
     } finally {
       setIsSubmitting(false);
@@ -138,15 +138,15 @@ const Contact = () => {
             </h2>
             <div className="w-24 h-1 mx-auto rounded-full mb-6" style={{backgroundColor: 'rgb(131, 137, 233)'}}></div>
             <p className="text-lg max-w-3xl mx-auto" style={{color: '#6B7280'}}>
-              Have a project in mind or want to collaborate? I'd love to hear from you. 
-              Let's create something amazing together!
+              Have a project in mind or want to collaborate? I&apos;d love to hear from you. 
+              Let&apos;s create something amazing together!
             </p>
           </div>
 
           <div className="grid lg:grid-cols-2 gap-12">
             {/* Contact Information */}
             <div>
-              <h3 className="text-2xl font-semibold mb-8" style={{color: '#1F2937'}}>Let's Connect</h3>
+              <h3 className="text-2xl font-semibold mb-8" style={{color: '#1F2937'}}>Let&apos;s Connect</h3>
               
               <div className="space-y-6 mb-8">
                 {contactInfo.map((info, index) => (

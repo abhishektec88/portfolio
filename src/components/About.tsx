@@ -87,10 +87,10 @@ const About = () => {
               </h3>
               <div className="space-y-4 leading-relaxed" style={{color: '#6B7280'}}>
                 <p>
-                  I'm a passionate Senior Software Engineer with over 5.5 years of hands-on 
+                  I&apos;m a passionate Senior Software Engineer with over 5.5 years of hands-on 
                   experience in full-stack development and AI/ML integration. My journey began with a 
-                  Bachelor's degree in Technology from KCC Institute of Technology and Management, 
-                  and I've been building intelligent, scalable web applications ever since.
+                  Bachelor&apos;s degree in Technology from KCC Institute of Technology and Management, 
+                  and I&apos;ve been building intelligent, scalable web applications ever since.
                 </p>
                 <p>
                   Currently working as a Sr. Software Developer at Teksystems Global Service, 
@@ -100,7 +100,7 @@ const About = () => {
                   fraud detection, and route optimization.
                 </p>
                 <p>
-                  I'm skilled in data preprocessing, model training, and end-to-end ML workflow 
+                  I&apos;m skilled in data preprocessing, model training, and end-to-end ML workflow 
                   integration with modern web apps. I have proven expertise in working with RESTful APIs, 
                   data visualization tools like Chart.js and Google Charts, and cloud services like AWS Lambda. 
                   I follow Agile methodologies and have strong problem-solving and communication skills.
