@@ -51,12 +51,12 @@ const Projects = () => {
     },
     {
       id: 3,
-      title: 'AI Note-Taker for Meetings',
-      description: 'An intelligent AI-powered application that automatically transcribes and summarizes meeting notes using advanced natural language processing and machine learning techniques.',
+      title: 'Resume Builder',
+      description: 'Resume Builder is a web application that allows you to create a professional resume by filling out a form. It is built with Next.js.',
       image: '/api/placeholder/600/400',
-      technologies: ['Python', 'Machine Learning', 'NLP', 'AI', 'GitHub'],
-      liveUrl: 'https://github.com/abhishektec88/AI_Note_Taker_for_Meetings',
-      githubUrl: 'https://github.com/abhishektec88/AI_Note_Taker_for_Meetings',
+      technologies: ["Next.js", "Tailwind CSS", "React", "TypeScript", "HTML", "CSS"],
+      liveUrl: 'https://resume-builder-two-pearl.vercel.app/',
+      githubUrl: 'https://github.com/abhishektec88/resumeBuilder',
       featured: true
     },
     {
